@@ -16,7 +16,7 @@ I'm a Software Developer with experience in . I love building Software, Python S
 ## 🛠️ Skills
 - **Programming Languages**:  Python, C, C++, Kotlin
 - **Frameworks & Libraries**: Flet , Jetpack Compose
-- **Tools & Technologies**:    Linux, Bash Script, Virtualization, Docker, Wsl, Networking 
+- **Tools & Technologies**:    Linux,  Bash Script, Virtualization, Docker, Wsl, Networking 
 - **Other Skills**: Android Developer
 
 ---
