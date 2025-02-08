@@ -5,7 +5,8 @@
 ---
 
 ## 🚀 About Me
-I'm a Software Developer with experience in . I love building Software, Python Sc
+I'm a **Software Developer** with experience in Android Development. I love building software that is efficient, scalable, and user-friendly. Whether it's crafting clean code, designing robust systems, or solving complex problems, I thrive on turning ideas into reality.
+
 - 🌱 I’m currently learning Android Development.
 - 💬 Ask me about Programming, Linux, Application Development.
 - 📫 How to reach me: umeshhamal@outlook.com.
@@ -15,8 +16,8 @@ I'm a Software Developer with experience in . I love building Software, Python S
 
 ## 🛠️ Skills
 - **Programming Languages**:  Python, C, C++, Kotlin
+- **Tools & Technologies**:    Linux,  Bash Script,Automation , Virtualization, Docker, Wsl, Networking 
 - **Frameworks & Libraries**: Flet , Jetpack Compose
-- **Tools & Technologies**:    Linux,  Bash Script, Virtualization, Docker, Wsl, Networking 
 - **Other Skills**: Android Developer
 
 ---
