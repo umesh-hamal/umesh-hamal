@@ -25,10 +25,10 @@ I'm a **Software Developer** with experience in Android Development. I love buil
 ## 📂 Projects
 Here are some of the projects I've worked on:
 
-### [Project 1 Name](Link to Project Repository or Live Demo)
-- **Description**: [Brief Description of the Project]
-- **Technologies Used**: [List Technologies Used]
-- **Key Features**: [List Key Features]
+### [NetScanX](https://github.com/umesh-hamal/NetScanX)
+- **Description**: [A Powerful and Versatile Network Scanner Script by umesh-hamal Powered by Nmap(Network Mapper)]
+- **Technologies Used**: [Nmap]
+- **Key Features**: [Takes output by Nmap and oraganzie into a cool way in table]
 
 ### [Project 2 Name](Link to Project Repository or Live Demo)
 - **Description**: [Brief Description of the Project]
