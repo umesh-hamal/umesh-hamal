@@ -1,25 +1,23 @@
 # Umesh Kumar Hamal Portfolio
 
-👋 Hi, I'm Umesh, a passionate  *Software Dev about Programming and Linux. Welcome to my GitHub portfolio!
+👋 Hi, I'm Umesh, a passionate  Software Dev about Programming and Linux. Welcome to my GitHub portfolio!
 
 ---
 
 ## 🚀 About Me
-I'm a [Your Role, e.g., Software Developer, Data Scientist, Designer] with experience in [Your Skills or Expertise]. I love building [What You Love Building, e.g., web applications, machine learning models, etc.].
-
-- 🌱 I’m currently learning [What You're Learning].
-- 💬 Ask me about [Topics You Can Help With].
-- 📫 How to reach me: [Your Email or Social Media Links].
-- 😄 Pronouns: [Your Pronouns].
-- ⚡ Fun fact: [A Fun Fact About You].
+I'm a Software Developer with experience in . I love building Software, Python Sc
+- 🌱 I’m currently learning Android Development.
+- 💬 Ask me about Programming, Linux, Application Development.
+- 📫 How to reach me: umeshhamal@outlook.com.
+- ⚡ Fun fact: I am a Gamer.
 
 ---
 
 ## 🛠️ Skills
-- **Programming Languages**: [List Languages, e.g., Python, JavaScript, Java]
-- **Frameworks & Libraries**: [List Frameworks, e.g., React, TensorFlow, Flask]
-- **Tools & Technologies**: [List Tools, e.g., Git, Docker, AWS]
-- **Other Skills**: [List Other Skills, e.g., UI/UX Design, Data Analysis]
+- **Programming Languages**:  Python, C, C++, Kotlin
+- **Frameworks & Libraries**: Flet , Jetpack Compose
+- **Tools & Technologies**:   Linux, Bash Script, Virtualization, Docker, Wsl, Networking 
+- **Other Skills**: Android Developer
 
 ---
 
