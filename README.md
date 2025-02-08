@@ -1,4 +1,4 @@
-# Umesh Kumar Hamal Portfolio
+# My Portfolio
 
 👋 Hi, I'm Umesh, a passionate  Software Dev about Programming and Linux. Welcome to my GitHub portfolio!
 
