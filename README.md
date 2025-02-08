@@ -1,6 +1,6 @@
-# [Your Name]'s Portfolio
+# Umesh Kumar Hamal Portfolio
 
-👋 Hi, I'm [Your Name], a [Your Job Title/Role] passionate about [Your Interests]. Welcome to my GitHub portfolio!
+👋 Hi, I'm Umesh, a passionate  *Software Dev about Programming and Linux. Welcome to my GitHub portfolio!
 
 ---
 
